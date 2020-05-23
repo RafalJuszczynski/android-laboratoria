@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab2_1</string>
+    <string name="moj_tekst">Po rosyjsku</string>
+    <string name="moj_tekst2">Po rosyjsku1</string>
+    <string name="moj_tekst3">Po rosyjsku2</string>
+    <string name="moj_tekst4">Po rosyjsku3</string>
+    <string name="moj_tekst5">Po rosyjsku4</string>
+</resources>
